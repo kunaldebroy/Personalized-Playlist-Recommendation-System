@@ -11,3 +11,10 @@ Cluster-Based Recommendations: Groups songs based on shared audio features, then
 Visualization: A feature similarity visualization helps illustrate the closeness between the input song and the recommended tracks, giving insight into their shared characteristics.
 
 By focusing on in-playlist recommendations, this system ensures that each suggestion is familiar yet varied, enhancing the listening experience within a personal music collection.
+
+
+User can change the playlist here
+(playlist_id = '5ABHKGoOzxkaa28ttQV9sE')
+# Replace with your own Client ID and Client Secret
+CLIENT_ID = ' '
+CLIENT_SECRET = ' '
